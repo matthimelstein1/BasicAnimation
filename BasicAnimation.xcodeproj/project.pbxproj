@@ -13,6 +13,7 @@
 		393AF96F1ACB3A370077CAAE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 393AF96E1ACB3A370077CAAE /* Images.xcassets */; };
 		393AF9721ACB3A370077CAAE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 393AF9701ACB3A370077CAAE /* LaunchScreen.xib */; };
 		393AF97E1ACB3A370077CAAE /* BasicAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393AF97D1ACB3A370077CAAE /* BasicAnimationTests.swift */; };
+		393AF9881ACB3AB50077CAAE /* PinkBoxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 393AF9871ACB3AB50077CAAE /* PinkBoxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		393AF9771ACB3A370077CAAE /* BasicAnimationTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BasicAnimationTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		393AF97C1ACB3A370077CAAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		393AF97D1ACB3A370077CAAE /* BasicAnimationTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicAnimationTests.swift; sourceTree = "<group>"; };
+		393AF9871ACB3AB50077CAAE /* PinkBoxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkBoxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				393AF9671ACB3A370077CAAE /* AppDelegate.swift */,
 				393AF9691ACB3A370077CAAE /* ViewController.swift */,
 				393AF96B1ACB3A370077CAAE /* Main.storyboard */,
+				393AF9871ACB3AB50077CAAE /* PinkBoxViewController.swift */,
 				393AF96E1ACB3A370077CAAE /* Images.xcassets */,
 				393AF9701ACB3A370077CAAE /* LaunchScreen.xib */,
 				393AF9651ACB3A370077CAAE /* Supporting Files */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				393AF96A1ACB3A370077CAAE /* ViewController.swift in Sources */,
+				393AF9881ACB3AB50077CAAE /* PinkBoxViewController.swift in Sources */,
 				393AF9681ACB3A370077CAAE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
